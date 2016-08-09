@@ -1,3 +1,6 @@
+## Enclave Website
+The following website was built off Bootstrap for a coop. This is my first website and dabble with html, CSS, etc.
+
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
