@@ -437,7 +437,7 @@ footer span.copyright {
 footer ul.quicklinks {
   margin-bottom: 0;
   line-height: 40px;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Arial Black", Gadget, sans-serif;
   text-transform: uppercase;
   text-transform: none;
 }
@@ -461,7 +461,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #FFC81E;
+  background-color: #1873cc;
 }
 .btn:focus,
 .btn:active,
