@@ -47,6 +47,9 @@ p {
 .bg-primary {
   background-color: #FFC81E;
 }
+.bg-secondary {
+    background-color: #1E90FF;
+}
 .bg-dark {
   background-color: #222222;
   color: white;
@@ -55,8 +58,9 @@ p {
   color: rgba(255, 255, 255, 0.7);
 }
 section {
-  padding: 100px 0 0;
+  padding: 0;
 }
+
 aside {
   padding: 50px 0;
 }
@@ -148,6 +152,7 @@ aside {
     color: #1E90FF; <!-- Changes navbar button colours-->
   }
 }
+
 header {
   position: relative;
   width: 100%;
@@ -157,7 +162,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/trees.jpg');
+  background-image: url('../img/fogforest1.jpg')    ;
   text-align: center;
   color: white;
 }
