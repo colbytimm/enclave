@@ -1,5 +1,7 @@
 ## Enclave Website
 The following website was built off Bootstrap for a coop. This is my first website and dabble with html, CSS, etc.
+To view this website, visit https://colbytimm.github.io/enclave/
+To view the report on this project, go to https://colbytimm.github.io/documents/final_report_enclave.pdf
 
 ## Creator
 
