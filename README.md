@@ -3,6 +3,9 @@ The following website was built off Bootstrap for a coop. This is my first websi
 To view this website, visit https://colbytimm.github.io/enclave/  
 To view the report on this project, go to https://colbytimm.github.io/documents/final_report_enclave.pdf
 
+## Note
+This website hasn't been fully updated since 2016. There are known issues when viewing it on mobile.
+
 ## Creator
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
